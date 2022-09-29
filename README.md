@@ -9,7 +9,7 @@ Student || Teaching Assistant || Competitive Programmer || Web Developer || C++ 
 - 👯 I’m highly passionate on researching about Robotics, Blockchain, AI, Machine Learning, Data Science
 - 🤔 I’m looking for help with Robotics, Blockchain, AI, Machine Learning, Data Science
 - 💬 Ask me about Technology
-- 📫 How to reach me: +8801739121667 (What's App first)
+- 📫 How to reach me: +8801739121667 (WhatsApp first)
 - 😄 Pronouns: Tareq Ahmed
 - ⚡ Fun fact: Game Streamer + Athlete + Enjoy Cycling
 
