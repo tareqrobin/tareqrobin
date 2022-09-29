@@ -11,7 +11,7 @@ Student || Teaching Assistant || Competitive Programmer || Web Developer || C++ 
 - 💬 Ask me about Technology
 - 📫 How to reach me: +8801739121667 (WhatsApp first)
 - 😄 Pronounce: Tareq Ahmed
-- ⚡ Fun fact: Game Streamer + Athlete + Enjoy Cycling
+- ⚡ Fun fact: Singer + Game Streamer + Athlete + Enjoy Cycling
 
 <!--
 **Tareq-Ahmed-Github/Tareq-Ahmed-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
