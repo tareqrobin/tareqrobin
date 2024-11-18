@@ -9,7 +9,7 @@ Student || Teaching Assistant || Competitive Programmer || Web Developer || C++ 
 - 👯 I’m highly passionate on researching about Robotics, Blockchain, AI, Machine Learning, Data Science
 - 🤔 I’m looking for help with Robotics, Blockchain, AI, Machine Learning, Data Science
 - 💬 Ask me about Technology
-- 📫 How to reach me: https://www.linkedin.com/in/tareq-ahmed-ctg
+- 📫 How to reach me: https://www.linkedin.com/in/tareqrobin
 - 😄 Pronounce: Tareq Ahmed
 - ⚡ Fun fact: Singer + Game Streamer + Athlete + Cyclist
 
